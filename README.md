@@ -13,9 +13,7 @@ To contribute, see [contribution guide](./CONTRIBUTING.md)
 
 This course leads students through a pragmatic deep dive into the fundamental
 building blocks of the web. We forgo frameworks and abstractions so that we can
-get deep into the heart of what makes the web tick. We start with low-level
-labs that will stretch understanding of what the HTTP protocol is, and what it
-can do.
+get deep into the heart of what makes the web tick.
 
 This highly interactive course is built to develop first-principles thinking on
 web technologies, By developing a strong understanding of the foundation upon
@@ -26,12 +24,13 @@ niceties, having had the experience of working without these tools. Not only
 that, while the JavaScript framework de jour changes every few years, the
 knowledge you glean from this course will be evergreen.
 
-By the end of the course, you will be able to build a beautiful, complex,
-interactive full-stack web application using nothing but vanilla client-side
-JavaScript, Express, and a SQL database. You will build this application
-creatively from scratch! There will be none of the typical tutorial
-anti-patterns of "just copy this 1000 line blob of goo and go build this other
-part over there"
+We start with low-level labs that will stretch understanding of what the HTTP
+protocol is, and what it can do. By the end of the course, you will be able to
+build a beautiful, complex, interactive full-stack web application using
+nothing but vanilla client-side JavaScript, Express, and a SQL database. You
+will build this application creatively from scratch! There will be none of the
+typical tutorial anti-patterns of "just copy this 1000 line blob of goo and go
+build this other part over there"
 
 # Technologies Taught
 
