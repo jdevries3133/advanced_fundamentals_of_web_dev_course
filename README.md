@@ -66,4 +66,4 @@ build this other part over there"
     expect some ugly duckling websites if you have zero prior knowledge, and
     that's OK! If it works, it works :)
 
-Want to know more? Read the [scope and sequence](./SCOPE_AND_SEQUENCE.md)!
+Want to know more? Check out the [scope and sequence](./SCOPE_AND_SEQUENCE.md)!
