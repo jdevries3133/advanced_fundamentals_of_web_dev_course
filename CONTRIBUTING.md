@@ -8,6 +8,12 @@ are two ways you can contribute:
 - Develop curriculum content
 - Develop the web application
 
+# Scope & Sequence Feedback
+
+At this time, the scope and sequence are subject to change, because the
+authoring of curriculum content is not happening. What do you think? Open an
+issue and/or open a PR if you'd like to contribute to the scope and sequence.
+
 # Curriculum Content
 
 This is what we need the most first. Look at the scope and sequence, and take
