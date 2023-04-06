@@ -65,3 +65,5 @@ build this other part over there"
   - that being said, you won't be 100% hung out to dry here, but definitely
     expect some ugly duckling websites if you have zero prior knowledge, and
     that's OK! If it works, it works :)
+
+Want to know more? Read the [scope and sequence](./SCOPE_AND_SEQUENCE.md)!
