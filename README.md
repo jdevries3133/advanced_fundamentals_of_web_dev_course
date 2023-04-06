@@ -7,8 +7,9 @@ To contribute, see [contribution guide](./CONTRIBUTING.md)
 
 # Curriculum Overview
 
-Title: Advanced Fundamentals of Web Development
-Duration: 18 weeks
+**Title:** Advanced Fundamentals of Web Development
+
+**Duration:** 18 weeks
 
 This course leads students through a pragmatic deep dive into the fundamental
 building blocks of the web. We forgo frameworks and abstractions so that we can
